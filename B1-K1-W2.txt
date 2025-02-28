@@ -1,0 +1,3 @@
+Maakt een technisch ontwerp voor software
+
+De beginnend beroepsbeoefenaar maakt een (deel)ontwerp dat aansluit op de geformuleerde eisen en wensen. Op basis van de informatie uit de opdracht en planning zet de beginnend beroepsbeoefenaar alternatieven voor het ontwerp naast elkaar en werkt het meest kansrijke alternatief/de meest kansrijke alternatieven uit. Bij het ontwerpen houdt de beginnend beroepsbeoefenaar rekening met de ontwikkelomgeving, programmeertaal en/of techniek. Bij het (deel)ontwerp houdt de beginnend beroepsbeoefenaar rekening met eisen rond efficiëntie, toegankelijkheid, privacy, ethiek en veiligheid.

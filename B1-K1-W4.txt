@@ -1,0 +1,3 @@
+Test software
+
+De beginnend beroepsbeoefenaar maakt testscenario’s voor het testen van de gerealiseerde software. De beginnend beroepsbeoefenaar kiest een passende testvorm, zoals eigen test van software, unit tests, integratietest, acceptatietest en kiest een passende testmethodiek. De beginnend beroepsbeoefenaar bepaalt wat nodig is voor het testen, zoals bijvoorbeeld de testomgeving, middelen en test data. Vervolgens voert de beginnend beroepsbeoefenaar de test(s) uit. De beginnend beroepsbeoefenaar interpreteert de bevindingen en trekt conclusies.

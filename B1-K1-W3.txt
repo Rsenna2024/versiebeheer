@@ -1,0 +1,3 @@
+Realiseert (onderdelen van) software
+
+De beginnend beroepsbeoefenaar werkt aan het ontwikkelen van (onderdelen van) software voor het (deel)ontwerp. De beginnend beroepsbeoefenaar programmeert de software. De beginnend beroepsbeoefenaar schrijft de benodigde code en integreert waar nodig (aangeleverde) assets zoals bijvoorbeeld video, mediamateriaal, bibliotheken, code van anderen. De beginnend beroepsbeoefenaar brengt logica, overzicht en efficiëntie aan in objecten, klassen en/of onderlinge relaties. De beginnend beroepsbeoefenaar controleert of het werk voldoet aan gangbare code conventies en eisen rond efficiëntie, privacy, veiligheid en toegankelijkheid.
