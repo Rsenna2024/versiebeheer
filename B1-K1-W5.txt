@@ -1,3 +1,5 @@
 Doet verbetervoorstellen voor de software
 
 De beginnend beroepsbeoefenaar interpreteert wensen, reacties, testresultaten en/of meldingen van opdrachtgever/ leidinggevende/ belanghebbenden voor het aanpassen van (onderdelen van) software, voor software in ontwikkeling of voor software die moet worden aangepast. De beginnend beroepsbeoefenaar vertaalt dit in een voorstel voor verbetering van de software. Daarbij stemt de beginnend beroepsbeoefenaar met opdrachtgever/ leidinggevende/ belanghebbenden af welke werkzaamheden moeten worden uitgevoerd en wanneer dit gebeurt.
+
+opdracht 15
